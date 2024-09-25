@@ -14,9 +14,9 @@ timezone: Europe/London
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: ProverbialPursuits # the main title
+title: J2897 # the main title
 
-tagline: In pursuit of proverbs. # it will display as the subtitle
+tagline: ProverbialPursuits # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Video story automation.
@@ -28,8 +28,8 @@ url: "https://j2897.github.io"
 github:
   username: J2897 # change to your GitHub username
 
-# twitter:
-  # username: twitter_username # change to your Twitter username
+twitter:
+  username: # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -38,7 +38,7 @@ social:
   email: "proverbialpursuits@proton.me" # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    # - https://twitter.com/username # change to your Twitter homepage
+    - https://twitter.com/username # change to your Twitter homepage
     - https://github.com/J2897 # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
